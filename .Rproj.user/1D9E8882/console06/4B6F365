@@ -19,3 +19,99 @@ To https://github.com/josephuses/stat_compre_reviewer.git
  * [new branch]      master -> master
 Branch 'master' set up to track remote branch 'master' from 'origin'.
 ]0;~/Documents/personal/Reviewers/compreFirstnamesiMac8:compre firstnamelastname$ git add .
+]0;~/Documents/personal/Reviewers/compreFirstnamesiMac8:compre firstnamelastname$ git commit -m "commit existing files"
+[master 72dbe04] commit existing files
+ 48 files changed, 408 insertions(+)
+ create mode 100644 .Rproj.user/1D9E8882/console06/4B6F365
+ create mode 100644 .Rproj.user/1D9E8882/console06/4B6F365.env
+ create mode 100644 .Rproj.user/1D9E8882/console06/INDEX001
+ create mode 100644 .Rproj.user/1D9E8882/sources/prop/1E0D8D27
+ create mode 100644 .Rproj.user/1D9E8882/sources/prop/INDEX
+ create mode 100644 .Rproj.user/1D9E8882/sources/s-9CA8DC0C/D6D76758
+ create mode 100644 .Rproj.user/1D9E8882/sources/s-9CA8DC0C/D6D76758-contents
+ create mode 100644 .Rproj.user/1D9E8882/sources/s-9CA8DC0C/lock_file
+ create mode 100644 .Rproj.user/shared/notebooks/9AF09F29-compre_rev/1/1D9E88829CA8DC0C/chunks.json
+ create mode 100644 .Rproj.user/shared/notebooks/9AF09F29-compre_rev/1/s/chunks.json
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names
+ create mode 100644 .Rproj.user/shared/notebooks/paths
+ create mode 100644 31494643_10212192490193797_1357988660934344704_n.jpg
+ create mode 100644 31563701_10212192461433078_4884463926881812480_n.jpg
+ create mode 100644 31603752_10212192490593807_6095433052660432896_n.jpg
+ create mode 100644 31646747_10212192462553106_3707919964708012032_n.jpg
+ create mode 100644 31646811_10212192461553081_3609326855829585920_n.jpg
+ create mode 100644 31655637_10212192465953191_30464349059416064_n.jpg
+ create mode 100644 31664590_10212192460033043_1357478826841473024_n.jpg
+ create mode 100644 31698918_10212192462193097_4197201079995203584_n.jpg
+ create mode 100644 31706369_10212192461913090_4620885460418297856_n.jpg
+ create mode 100644 31719071_10212192489913790_8848790269475160064_n.jpg
+ create mode 100644 31732516_10212192461713085_7741670455026647040_n.jpg
+ create mode 100644 31732547_10212192460513055_149862571577442304_n.jpg
+ create mode 100644 32370965_10211514448806940_7853662319975333888_n.jpg
+ create mode 100644 32423068_10211514447766914_4349617963112857600_n.jpg
+ create mode 100644 32620871_10211514449726963_519290773338849280_n.jpg
+ create mode 100644 32662604_10211514449926968_4789317804136333312_n.jpg
+ create mode 100644 32679023_10211514448486932_6025879106728493056_n.jpg
+ create mode 100644 32680599_10211514448046921_1855650180834000896_n.jpg
+ create mode 100644 32684088_10211514450006970_4368083814224756736_n.jpg
+ create mode 100644 32691694_10211514448286927_5980691429389762560_n.jpg
+ create mode 100644 32696529_10211514448206925_4082735739085783040_n.jpg
+ create mode 100644 32734094_10211514448406930_966586349924646912_n.jpg
+ create mode 100644 32760821_10211514449846966_6033094814994530304_n.jpg
+ create mode 100644 32931311_10211537214896078_7771910748527132672_n.jpg
+ create mode 100644 33036202_10211537202975780_2758214708862386176_n.jpg
+ create mode 100644 33038607_10211537204215811_3645697038324072448_n.jpg
+ create mode 100644 33099771_10211537213976055_8761691614067294208_n.jpg
+ create mode 100644 35634000_2025262257502540_1231540507297972224_n.jpg
+ create mode 100644 35644879_2025263737502392_2201037487839641600_n.jpg
+ create mode 100644 35645492_2025286704166762_1072726820148740096_n.jpg
+ create mode 100644 35646448_2025290480833051_2472759676152840192_n.jpg
+ create mode 100644 35799266_2025293884166044_4983250704425549824_n.jpg
+ create mode 100644 39809504_662327624146849_5418463777798488064_n.jpg
+ create mode 100644 compre.Rproj
+ create mode 100644 compre_rev.Rmd
+ create mode 100644 compre_rev.pdf
+]0;~/Documents/personal/Reviewers/compreFirstnamesiMac8:compre firstnamelastname$ git push -u origin master
+Counting objects: 58, done.
+Delta compression using up to 4 threads.
+Compressing objects:   1% (1/54)   Compressing objects:   3% (2/54)   Compressing objects:   5% (3/54)   Compressing objects:   7% (4/54)   Compressing objects:   9% (5/54)   Compressing objects:  11% (6/54)   Compressing objects:  12% (7/54)   Compressing objects:  14% (8/54)   Compressing objects:  16% (9/54)   Compressing objects:  18% (10/54)   Compressing objects:  20% (11/54)   Compressing objects:  22% (12/54)   Compressing objects:  24% (13/54)   Compressing objects:  25% (14/54)   Compressing objects:  27% (15/54)   Compressing objects:  29% (16/54)   Compressing objects:  31% (17/54)   Compressing objects:  33% (18/54)   Compressing objects:  35% (19/54)   Compressing objects:  37% (20/54)   Compressing objects:  38% (21/54)   Compressing objects:  40% (22/54)   Compressing objects:  42% (23/54)   Compressing objects:  44% (24/54)   Compressing objects:  46% (25/54)   Compressing objects:  48% (26/54)   Compressing objects:  50% (27/54)   Compressing objects:  51% (28/54)   Compressing objects:  53% (29/54)   Compressing objects:  55% (30/54)   Compressing objects:  57% (31/54)   Compressing objects:  59% (32/54)   Compressing objects:  61% (33/54)   Compressing objects:  62% (34/54)   Compressing objects:  64% (35/54)   Compressing objects:  66% (36/54)   Compressing objects:  68% (37/54)   Compressing objects:  70% (38/54)   Compressing objects:  72% (39/54)   Compressing objects:  74% (40/54)   Compressing objects:  75% (41/54)   Compressing objects:  77% (42/54)   Compressing objects:  79% (43/54)   Compressing objects:  81% (44/54)   Compressing objects:  83% (45/54)   Compressing objects:  85% (46/54)   Compressing objects:  87% (47/54)   Compressing objects:  88% (48/54)   Compressing objects:  90% (49/54)   Compressing objects:  92% (50/54)   Compressing objects:  94% (51/54)   Compressing objects:  96% (52/54)   Compressing objects:  98% (53/54)   Compressing objects: 100% (54/54)   Compressing objects: 100% (54/54), done.
+Writing objects:   1% (1/58)   Writing objects:   3% (2/58)   Writing objects:   5% (3/58)   Writing objects:   6% (4/58)   Writing objects:   8% (5/58)   Writing objects:  10% (6/58)   Writing objects:  12% (7/58)   Writing objects:  13% (8/58)   Writing objects:  15% (9/58)   Writing objects:  17% (10/58)   Writing objects:  18% (11/58)   Writing objects:  20% (12/58)   Writing objects:  22% (13/58)   Writing objects:  24% (14/58)   Writing objects:  25% (15/58)   Writing objects:  27% (16/58)   Writing objects:  29% (17/58)   Writing objects:  31% (18/58)   Writing objects:  32% (19/58)   Writing objects:  34% (20/58)   Writing objects:  36% (21/58)   Writing objects:  37% (22/58)   Writing objects:  39% (23/58)   Writing objects:  41% (24/58)   Writing objects:  43% (25/58)   Writing objects:  44% (26/58)   Writing objects:  44% (26/58), 1.07 MiB | 148.00 KiB/s   Writing objects:  46% (27/58), 1.07 MiB | 148.00 KiB/s   Writing objects:  46% (27/58), 1.31 MiB | 156.00 KiB/s   Writing objects:  48% (28/58), 1.31 MiB | 156.00 KiB/s   Writing objects:  48% (28/58), 1.50 MiB | 168.00 KiB/s   Writing objects:  50% (29/58), 1.50 MiB | 168.00 KiB/s   Writing objects:  51% (30/58), 1.69 MiB | 178.00 KiB/s   Writing objects:  51% (30/58), 1.94 MiB | 192.00 KiB/s   Writing objects:  53% (31/58), 1.94 MiB | 192.00 KiB/s   Writing objects:  55% (32/58), 1.94 MiB | 192.00 KiB/s   Writing objects:  56% (33/58), 2.25 MiB | 211.00 KiB/s   Writing objects:  58% (34/58), 2.63 MiB | 234.00 KiB/s   Writing objects:  60% (35/58), 2.63 MiB | 234.00 KiB/s   Writing objects:  60% (35/58), 2.94 MiB | 250.00 KiB/s   Writing objects:  62% (36/58), 2.94 MiB | 250.00 KiB/s   Writing objects:  63% (37/58), 2.94 MiB | 250.00 KiB/s   Writing objects:  65% (38/58), 2.94 MiB | 250.00 KiB/s   Writing objects:  67% (39/58), 2.94 MiB | 250.00 KiB/s   Writing objects:  68% (40/58), 2.94 MiB | 250.00 KiB/s   Writing objects:  70% (41/58), 2.94 MiB | 250.00 KiB/s   Writing objects:  72% (42/58), 3.25 MiB | 410.00 KiB/s   Writing objects:  74% (43/58), 3.25 MiB | 410.00 KiB/s   Writing objects:  75% (44/58), 3.25 MiB | 410.00 KiB/s   Writing objects:  77% (45/58), 3.25 MiB | 410.00 KiB/s   Writing objects:  79% (46/58), 3.25 MiB | 410.00 KiB/s   Writing objects:  81% (47/58), 3.25 MiB | 410.00 KiB/s   Writing objects:  82% (48/58), 3.63 MiB | 466.00 KiB/s   Writing objects:  84% (49/58), 3.63 MiB | 466.00 KiB/s   Writing objects:  86% (50/58), 3.63 MiB | 466.00 KiB/s   Writing objects:  87% (51/58), 4.06 MiB | 520.00 KiB/s   Writing objects:  89% (52/58), 4.44 MiB | 555.00 KiB/s   Writing objects:  89% (52/58), 4.81 MiB | 589.00 KiB/s   Writing objects:  91% (53/58), 4.81 MiB | 589.00 KiB/s   Writing objects:  93% (54/58), 5.13 MiB | 597.00 KiB/s   Writing objects:  94% (55/58), 5.50 MiB | 610.00 KiB/s   Writing objects:  96% (56/58), 5.50 MiB | 610.00 KiB/s   Writing objects:  98% (57/58), 5.50 MiB | 610.00 KiB/s   Writing objects: 100% (58/58), 5.81 MiB | 587.00 KiB/s   Writing objects: 100% (58/58), 5.97 MiB | 356.00 KiB/s, done.
+Total 58 (delta 0), reused 0 (delta 0)
+To https://github.com/josephuses/stat_compre_reviewer.git
+   3e0fc26..72dbe04  master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+]0;~/Documents/personal/Reviewers/compreFirstnamesiMac8:compre firstnamelastname$ git rm *.jpg[K[K[K[K[K[K[K[K[K[K[K[Ktouch g[K.gitignore
+]0;~/Documents/personal/Reviewers/compreFirstnamesiMac8:compre firstnamelastname$ ECHO[K[K[K[Kgit rm --cached *.jpg
+rm '31494643_10212192490193797_1357988660934344704_n.jpg'
+rm '31563701_10212192461433078_4884463926881812480_n.jpg'
+rm '31603752_10212192490593807_6095433052660432896_n.jpg'
+rm '31646747_10212192462553106_3707919964708012032_n.jpg'
+rm '31646811_10212192461553081_3609326855829585920_n.jpg'
+rm '31655637_10212192465953191_30464349059416064_n.jpg'
+rm '31664590_10212192460033043_1357478826841473024_n.jpg'
+rm '31698918_10212192462193097_4197201079995203584_n.jpg'
+rm '31706369_10212192461913090_4620885460418297856_n.jpg'
+rm '31719071_10212192489913790_8848790269475160064_n.jpg'
+rm '31732516_10212192461713085_7741670455026647040_n.jpg'
+rm '31732547_10212192460513055_149862571577442304_n.jpg'
+rm '32370965_10211514448806940_7853662319975333888_n.jpg'
+rm '32423068_10211514447766914_4349617963112857600_n.jpg'
+rm '32620871_10211514449726963_519290773338849280_n.jpg'
+rm '32662604_10211514449926968_4789317804136333312_n.jpg'
+rm '32679023_10211514448486932_6025879106728493056_n.jpg'
+rm '32680599_10211514448046921_1855650180834000896_n.jpg'
+rm '32684088_10211514450006970_4368083814224756736_n.jpg'
+rm '32691694_10211514448286927_5980691429389762560_n.jpg'
+rm '32696529_10211514448206925_4082735739085783040_n.jpg'
+rm '32734094_10211514448406930_966586349924646912_n.jpg'
+rm '32760821_10211514449846966_6033094814994530304_n.jpg'
+rm '32931311_10211537214896078_7771910748527132672_n.jpg'
+rm '33036202_10211537202975780_2758214708862386176_n.jpg'
+rm '33038607_10211537204215811_3645697038324072448_n.jpg'
+rm '33099771_10211537213976055_8761691614067294208_n.jpg'
+rm '35634000_2025262257502540_1231540507297972224_n.jpg'
+rm '35644879_2025263737502392_2201037487839641600_n.jpg'
+rm '35645492_2025286704166762_1072726820148740096_n.jpg'
+rm '35646448_2025290480833051_2472759676152840192_n.jpg'
+rm '35799266_2025293884166044_4983250704425549824_n.jpg'
+rm '39809504_662327624146849_5418463777798488064_n.jpg'
+]0;~/Documents/personal/Reviewers/compreFirstnamesiMac8:compre firstnamelastname$ git commit[K[K[K[K[K[Kadd .
