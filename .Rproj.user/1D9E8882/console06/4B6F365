@@ -1,0 +1,21 @@
+]0;~/Documents/personal/Reviewers/compre[?1034hFirstnamesiMac8:compre firstnamelastname$ [KFirstnamesiMac8:compre firstnamelastname$ echo "# stat_compre_reviewer" >> README.md
+]0;~/Documents/personal/Reviewers/compreFirstnamesiMac8:compre firstnamelastname$ git init
+Initialized empty Git repository in /Users/firstnamelastname/Documents/personal/Reviewers/compre/.git/
+]0;~/Documents/personal/Reviewers/compreFirstnamesiMac8:compre firstnamelastname$ git add README.md
+]0;~/Documents/personal/Reviewers/compreFirstnamesiMac8:compre firstnamelastname$ git commit -m "first commit"
+[master (root-commit) 3e0fc26] first commit
+ 1 file changed, 1 insertion(+)
+ create mode 100644 README.md
+]0;~/Documents/personal/Reviewers/compreFirstnamesiMac8:compre firstnamelastname$ git remod[Kte add origin https://github.com/josephuses/stat_compre_rev iewer.git
+]0;~/Documents/personal/Reviewers/compreFirstnamesiMac8:compre firstnamelastname$ git push -u origin master
+Counting objects: 3, done.
+Writing objects:  33% (1/3)   Writing objects:  66% (2/3)   Writing objects: 100% (3/3)   Writing objects: 100% (3/3), 241 bytes | 241.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+remote: 
+remote: Create a pull request for 'master' on GitHub by visiting:[K
+remote:      https://github.com/josephuses/stat_compre_reviewer/pull/new/master[K
+remote: 
+To https://github.com/josephuses/stat_compre_reviewer.git
+ * [new branch]      master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+]0;~/Documents/personal/Reviewers/compreFirstnamesiMac8:compre firstnamelastname$ git add .
